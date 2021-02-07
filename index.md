@@ -1,13 +1,11 @@
 
 <html lang="es">
-<head>
+    <head>
 	<title>Mi primera página</title>
 	<meta charset="utf-8">
-</head>
-<body bgcolor="#5522AA" text="FFFFFF" link="BBBBBB" vlink="111111">
-<!--
-   <body background="/home/luis/Imágenes/wallpapers/wallhaven-mpw5qk.png"> 
---> 
+    </head>
+    <body bgcolor="#5522AA" text="FFFFFF" link="BBBBBB" vlink="111111">
+
     <a name="encabezado"></a>
 	<h1><center>Primera página</center></h1>
 	
@@ -256,6 +254,6 @@
     	<track src="sub-en.vtt" lang="en" label="English" default>
     </video>
     
-</body>
+    </body>
 </html>
 
