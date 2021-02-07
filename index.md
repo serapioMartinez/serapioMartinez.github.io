@@ -1,9 +1,4 @@
 
-<html lang="es">
-    <head>
-	<title>Mi primera página</title>
-	<meta charset="utf-8">
-    </head>
     <body bgcolor="#5522AA" text="FFFFFF" link="BBBBBB" vlink="111111">
 
     <a name="encabezado"></a>
@@ -255,5 +250,4 @@
     </video>
     
     </body>
-</html>
 
