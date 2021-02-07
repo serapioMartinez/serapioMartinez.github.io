@@ -1,5 +1,5 @@
 
-    <body bgcolor="#5522AA" text="FFFFFF" link="BBBBBB" vlink="111111">
+    <body bgcolor="blue" text="FFFFFF" link="BBBBBB" vlink="111111">
 
     <a name="encabezado"></a>
 	<h1><center>Primera página</center></h1>
